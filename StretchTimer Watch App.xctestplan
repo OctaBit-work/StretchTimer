@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "285E2A9B-4841-49E8-945E-B67B69C3CD9D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:StretchTimer.xcodeproj",
+      "identifier" : "E0035BD32EADA077001ACE5D",
+      "name" : "StretchTimer Watch App"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:StretchTimer.xcodeproj",
+        "identifier" : "E0035BE22EADA079001ACE5D",
+        "name" : "StretchTimer Watch AppTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:StretchTimer.xcodeproj",
+        "identifier" : "E0035BEC2EADA079001ACE5D",
+        "name" : "StretchTimer Watch AppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
