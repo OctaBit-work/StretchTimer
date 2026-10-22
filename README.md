@@ -1,6 +1,6 @@
 # StretchTimer 🤸‍♂️⏱️
 
-**An interval-timer for watchOS built w/Xcode by Apple powered by Coding Intelligence + Codex from OpenAI**
+**An interval-timer for watchOS built w/Xcode by Apple powered by Coding Intelligence + Claude Code by Anthropic**
 
 ## The health recommendation for desk-bound workers is to stretch regularly
 - **Adjust time, intervals or volume:** press START to go with defaults or adjust total time before starting and volume after with the watch crown.
